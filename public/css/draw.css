@@ -1,13 +1,13 @@
 #canvas {
     border: solid 1px #000;
-    cursor: url(pencil.cur), auto
+    cursor: url(/img/pencil.cur), auto
 }
 
 #canvas.eraser {
-    cursor: url(eraser.cur), auto
+    cursor: url(/img/eraser.cur), auto
 }
 #canvas.pencil {
-    cursor: url(pencil.cur), auto
+    cursor: url(/img/pencil.cur), auto
 }
 
 #toolbar {
@@ -20,14 +20,14 @@
 }
 
 #pencil {
-    background-image: url(pencil.cur);
+    background-image: url(/img/pencil.cur);
     background-color: transparent;
     width: 32px;
     height: 32px;
 }
 
 #eraser {
-    background-image: url(eraser.cur);
+    background-image: url(/img/eraser.cur);
     background-color: transparent;
     width: 32px;
     height: 32px;
